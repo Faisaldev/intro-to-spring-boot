@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: intro-to-spring-boot
+server:
+  port: 0
