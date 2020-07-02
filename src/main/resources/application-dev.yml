@@ -4,8 +4,8 @@ spring:
   output:
     ansi:
       enabled: always
-#  profiles:
-#    active: "dev"
+server:
+  port: 0
 management:
   endpoints:
     web:
